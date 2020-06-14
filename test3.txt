@@ -1,3 +1,5 @@
 test3
 add c
 add d
+add a
+add b
